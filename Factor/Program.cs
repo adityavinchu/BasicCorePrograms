@@ -28,6 +28,7 @@ namespace Factor
             for (int i = 0; i < list.Count; i++) Console.WriteLine(list[i] + " ");
             Console.WriteLine("\n");
             Console.ReadLine();
+
         }
     }
 }
