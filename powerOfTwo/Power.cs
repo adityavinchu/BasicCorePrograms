@@ -28,6 +28,7 @@ namespace powerOfTwo
                 Console.WriteLine("Invalid Input");
             }
             Console.ReadLine();  
+
         }
     }
 }
